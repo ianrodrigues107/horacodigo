@@ -422,6 +422,9 @@ opacity: 1;
   .card-img{
     width: 300px;
   }
+  .navigation:hover{
+    width: 300px;
+  }
 }
 @media (min-width: 411px) and (max-width: 495px){
   .card{
@@ -435,6 +438,9 @@ opacity: 1;
   }
   .conteudo{
     width: 300px;
+  }
+  .navigation:hover{
+    width: 240px;
   }
 }
 @media (min-width: 350px) and (max-width: 410.99px){
@@ -450,6 +456,9 @@ opacity: 1;
   .conteudo{
     width: 250px;
   }
+  .navigation:hover{
+    width: 200px;
+  }
 }
 @media (min-width: 200px) and (max-width: 349.99px){
   .card{
@@ -463,5 +472,8 @@ opacity: 1;
   }
   .conteudo{
     width: 200px;
+  }
+  .navigation:hover{
+    width: 150px;
   }
 }
